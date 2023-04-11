@@ -1,0 +1,78 @@
+*, *:after, *:before {
+    margin: 0;
+    padding: 0;
+  }
+
+
+header {
+    background-color: #22244a;
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #6db8a6;
+    font-size: 15px;
+    position: relative;
+}
+ul {
+    padding-left: 40px;
+}
+footer {
+    background-color: #22244a;
+    padding: 60px;
+    color: #6db8a6;
+    font-size: 15px;
+    
+}
+
+h3 span {
+    background-color: #6db8a6;
+
+}
+
+h3 {
+    padding-top: 20px;
+}
+
+i {
+    padding: 20px;
+}
+a {
+    color: #6db8a6;
+    text-decoration: none;
+}
+.Title {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: #6db8a6;
+    color : #22244a;
+    text-align: center;
+    position: relative;
+}
+
+.A_Propos {
+    
+    padding-top: 15px;
+    padding-bottom: 35px;
+    padding-left: 42%;
+    padding-right : 42%;
+    position : relative;
+    text-align: center;
+    
+
+}
+.colonne {
+    float: left;
+    width: 50%;
+    padding-left: 60px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.Date{
+    color : grey;
+}
+.Experience_Pro {
+    padding-bottom: 150px;
+}
